@@ -12,7 +12,7 @@
  *
  *@date: 21/11/2018
  *
- *@bugs: Nenhum encontrado.
+ *@bugs: Ao ler um caractere do teclado o programa entra em loop infinito.
  */
 
 void menuprincipal (){ //Imprime o menu principal
